@@ -27,6 +27,7 @@
     </i><br>
 </p>
 
+<!--
 ### Projects
 - <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/Serial_Tool-%230ec7b3?style=flat"/></a> desc
 - <a href="" target="_blank"><img  align=center src="https://img.shields.io/badge/DirectX_Render Neural Network-%230084fe?style=flat"/></a> desc
@@ -50,3 +51,4 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com)
+-->
