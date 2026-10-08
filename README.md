@@ -21,8 +21,8 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm ZYF.<br>
-        Currently learning to walk in Machine/Deep Learning.<br>
+        I'm Avery Zhou X.<br>
+        Currently learning to walk in Machine/Deep Learning and LLMs.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
 </p>
